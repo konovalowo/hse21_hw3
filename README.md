@@ -1,7 +1,8 @@
 # Часть 1
 
 Ссылка на google colab 1 части: https://colab.research.google.com/drive/1tRdibR32ZWuODDCzHFR0HLS_dpzumQA0?usp=sharing
-Ссылка на google colab 1 части: https://colab.research.google.com/drive/1gDH_mVvViDHR6aEx7wH2bzwVdomxI80k?usp=sharing
+
+Ссылка на google colab 2 части: https://colab.research.google.com/drive/1gDH_mVvViDHR6aEx7wH2bzwVdomxI80k?usp=sharing
 
 ## multiqc
 
